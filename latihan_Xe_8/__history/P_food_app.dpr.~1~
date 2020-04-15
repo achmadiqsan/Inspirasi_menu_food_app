@@ -1,0 +1,14 @@
+program P_food_app;
+
+uses
+  Vcl.Forms,
+  U_food_app in 'U_food_app.pas' {Form1};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TForm1, Form1);
+  Application.Run;
+end.

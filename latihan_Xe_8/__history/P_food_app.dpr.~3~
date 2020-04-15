@@ -1,0 +1,16 @@
+program P_food_app;
+
+uses
+  Vcl.Forms,
+  U_food_app in 'U_food_app.pas' {Form1},
+  F_foods in 'F_foods.pas' {Frame_foods: TFrame},
+  F_Drink in 'F_Drink.pas' {Frame_Drink: TFrame};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TForm1, Form1);
+  Application.Run;
+end.

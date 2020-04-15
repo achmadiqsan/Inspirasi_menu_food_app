@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/03/06 21:05:20.000.669,=C:\Users\Near\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/03/06 21:19:33.000.091,=C:\Users\Near\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/03/07 20:52:34.000.099,=C:\Users\Near\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/03/07 22:36:06.000.496,C:\Users\Near\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\HIBURAN\DELPHI 7\latihan_Xe_8\U_food_app.pas</Transaction>
+    <Transaction>2019/03/07 22:36:06.000.496,C:\Users\Near\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\HIBURAN\DELPHI 7\latihan_Xe_8\U_food_app.dfm</Transaction>
+    <Transaction>2019/03/07 22:36:18.000.292,C:\Users\Near\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\HIBURAN\DELPHI 7\latihan_Xe_8\P_food_app.dproj</Transaction>
+    <Transaction>2019/03/09 09:38:42.000.655,=D:\HIBURAN\DELPHI 7\latihan_Xe_8\Unit1.pas</Transaction>
+    <Transaction>2019/03/09 10:29:06.000.583,D:\HIBURAN\DELPHI 7\latihan_Xe_8\Unit1.pas=D:\HIBURAN\DELPHI 7\latihan_Xe_8\F_foods.pas</Transaction>
+    <Transaction>2019/03/09 10:29:06.000.583,D:\HIBURAN\DELPHI 7\latihan_Xe_8\Unit1.dfm=D:\HIBURAN\DELPHI 7\latihan_Xe_8\F_foods.dfm</Transaction>
+    <Transaction>2019/03/09 10:30:19.000.578,=D:\HIBURAN\DELPHI 7\latihan_Xe_8\Unit1.pas</Transaction>
+    <Transaction>2019/03/09 11:09:32.000.955,D:\HIBURAN\DELPHI 7\latihan_Xe_8\Unit1.pas=D:\HIBURAN\DELPHI 7\latihan_Xe_8\F_Drink.pas</Transaction>
+    <Transaction>2019/03/09 11:09:32.000.955,D:\HIBURAN\DELPHI 7\latihan_Xe_8\Unit1.dfm=D:\HIBURAN\DELPHI 7\latihan_Xe_8\F_Drink.dfm</Transaction>
+    <Transaction>2019/03/09 11:47:16.000.405,=D:\HIBURAN\DELPHI 7\latihan_Xe_8\Unit1.pas</Transaction>
+    <Transaction>2019/03/09 11:50:26.000.715,D:\HIBURAN\DELPHI 7\latihan_Xe_8\Unit1.pas=D:\HIBURAN\DELPHI 7\latihan_Xe_8\F_deserts.pas</Transaction>
+    <Transaction>2019/03/09 11:50:26.000.715,D:\HIBURAN\DELPHI 7\latihan_Xe_8\Unit1.dfm=D:\HIBURAN\DELPHI 7\latihan_Xe_8\F_deserts.dfm</Transaction>
+    <Transaction>2019/03/09 11:50:45.000.751,=D:\HIBURAN\DELPHI 7\latihan_Xe_8\Unit1.pas</Transaction>
+    <Transaction>2019/03/09 11:51:02.000.956,=D:\HIBURAN\DELPHI 7\latihan_Xe_8\Unit2.pas</Transaction>
+    <Transaction>2019/03/09 11:58:29.000.933,D:\HIBURAN\DELPHI 7\latihan_Xe_8\Unit1.pas=D:\HIBURAN\DELPHI 7\latihan_Xe_8\F_mycart.pas</Transaction>
+    <Transaction>2019/03/09 11:58:29.000.933,D:\HIBURAN\DELPHI 7\latihan_Xe_8\Unit1.dfm=D:\HIBURAN\DELPHI 7\latihan_Xe_8\F_mycart.dfm</Transaction>
+    <Transaction>2019/03/09 11:58:36.000.071,D:\HIBURAN\DELPHI 7\latihan_Xe_8\Unit2.dfm=D:\HIBURAN\DELPHI 7\latihan_Xe_8\F_about.dfm</Transaction>
+    <Transaction>2019/03/09 11:58:36.000.071,D:\HIBURAN\DELPHI 7\latihan_Xe_8\Unit2.pas=D:\HIBURAN\DELPHI 7\latihan_Xe_8\F_about.pas</Transaction>
+  </Transactions>
+</BorlandProject>
